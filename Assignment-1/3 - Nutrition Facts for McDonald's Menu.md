@@ -25,4 +25,4 @@ I felt this data would be interesting to start off with small project, there won
 
 ### URL
 
-Menu can be downloaded using this url - https://github.com/vnikesh/ISQA-8086-Assignment/blob/master/menu.csv
+Menu can be downloaded using this url - https://github.com/vnikesh/ISQA-8086-Assignment/blob/master/Assignment-1/3%20-%20menu.csv
