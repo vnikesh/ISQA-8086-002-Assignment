@@ -9,7 +9,7 @@
 
 DataSet details are mentioned in the Markdown file and an exclusive markdown file is created for each dataset. The url to access the markdown file is mentioned below.
 
-The Dataset and Markdown file can also be found under the following folder *[Assignment 1]*(https://github.com/vnikesh/ISQA-8086-Assignment/tree/master/Assignment-1)
+The Dataset and Markdown file can also be found under the following folder [Assignment 1](https://github.com/vnikesh/ISQA-8086-Assignment/tree/master/Assignment-1)
 
 1. Consumer Complaint Database  
 https://github.com/vnikesh/ISQA-8086-Assignment/blob/master/Assignment-1/1%20-%20Consumer%20Complaint%20Database.md
