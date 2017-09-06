@@ -3,6 +3,26 @@
   Version 2.0, January 2004  
   http://www.apache.org/licenses/
 
+**_This File will contain all the details about the Assignments done for 8086-002_**
+
+### Assignment - 1 - Information Seeking
+
+DataSet details are mentioned in the Markdown file and an exclusive markdown file is created for each dataset. The url to access the markdown file is mentioned below.
+
+1. https://github.com/vnikesh/ISQA-8086-Assignment/blob/master/Consumer%20Complaint%20Database.md
+
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
    **_TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION_**
 
    1. Definitions.
