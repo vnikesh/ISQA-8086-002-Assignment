@@ -25,3 +25,7 @@ The data is provided by consumer and it is maintained by US government.
 https://catalog.data.gov/dataset/consumer-complaint-database
 
 The dataset(_csv_) can be downloaded in the above link, since the file is of 300+ MB, I couldn't upload it here.
+
+### References:
+
+Consumer Financial Protection Bureau. “Consumer Complaint Database.” Consumer Complaint Database, 5 Sept. 2015, catalog.data.gov/dataset/consumer-complaint-database.
