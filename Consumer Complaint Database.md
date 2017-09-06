@@ -23,3 +23,5 @@ The data is provided consumer and it is maintained by US government.
 
 ### URL
 https://catalog.data.gov/dataset/consumer-complaint-database
+
+The File can be downloaded in the above link, since the file is too big, I couldn't upload it here.
