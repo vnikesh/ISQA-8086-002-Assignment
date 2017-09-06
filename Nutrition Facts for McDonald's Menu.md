@@ -22,3 +22,7 @@ The dataset is provided by McDonalds to check the nutrition level in each meal.
 I felt this data would be interesting to start off with small project, there wont be too much burden in solving the questions, hence I have included this dataset.
 
 **Dataset** - I have uploaded the dataset(__menu.csv__) to the repository.
+
+### URL
+
+Menu can be downloaded using this url - https://github.com/vnikesh/ISQA-8086-Assignment/blob/master/menu.csv
