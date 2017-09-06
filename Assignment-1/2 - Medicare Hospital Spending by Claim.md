@@ -22,3 +22,7 @@ _Public:_ This dataset is intended for public access and use.
 The dataset can be downloaded from the following link -  
 https://github.com/vnikesh/ISQA-8086-Assignment/blob/master/Assignment-1/2%20-%20Medicare_Hospital_Spending_by_Claim.csv
 
+### References:
+
+“Medicare Hospital Spending by Claim.” _Medicare Hospital Spending by Claim Data_, Publisher Centers for Medicare &Amp; Medicaid Services, 14 July 2017, catalog.data.gov/dataset/medicare-hospital-spending-by-claim-61b57
+
