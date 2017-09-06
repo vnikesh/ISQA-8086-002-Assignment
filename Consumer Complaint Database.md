@@ -8,7 +8,7 @@ The dataset verifies all the facts alleged in these complaints, but it takes ste
 The Dataset has around 18 cloumns and 800000 rows
 
 ### Access & Use Information
-__Public:__ This dataset is intended for public access and use.
+__Public:__ This dataset is intended for public access and use.  
 **License:** No license information was provided. If this work was prepared by an officer or employee of the United States government as part of that person's official duties it is considered a U.S. Government Work.
 
 The data is provided consumer and it is maintained by US government.
