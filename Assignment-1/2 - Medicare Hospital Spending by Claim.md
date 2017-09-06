@@ -20,5 +20,5 @@ _Public:_ This dataset is intended for public access and use.
 ### URL
 
 The dataset can be downloaded from the following link -  
-https://github.com/vnikesh/ISQA-8086-Assignment/blob/master/Medicare_Hospital_Spending_by_Claim.csv
+https://github.com/vnikesh/ISQA-8086-Assignment/blob/master/Assignment-1/2%20-%20Medicare_Hospital_Spending_by_Claim.csv
 
