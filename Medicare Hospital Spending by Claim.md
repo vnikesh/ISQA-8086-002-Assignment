@@ -13,9 +13,9 @@ _Public:_ This dataset is intended for public access and use.
 
 ### Questions this data might help to answer
 
-1. We can check average spending and also find claims done for a particular provider
-2. We can check the spending based on each states and group it under high and less claim states
-3. When a customer has claimed the money and which state higher claimer
+1. Can check average spending and also find claims done for a particular provider
+2. Can check the spending based on each states and group it under high and less claim states
+3. Can check on how many customers has claimed the money and which state has higher claimers
 
 ### URL
 
