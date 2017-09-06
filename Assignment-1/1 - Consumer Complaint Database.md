@@ -28,4 +28,4 @@ The dataset(_csv_) can be downloaded in the above link, since the file is of 300
 
 ### References:
 
-Consumer Financial Protection Bureau. “Consumer Complaint Database.” Consumer Complaint Database, 5 Sept. 2015, (catalog.data.gov/dataset/consumer-complaint-database).
+Consumer Financial Protection Bureau. “Consumer Complaint Database.” Consumer Complaint Database, 5 Sept. 2015, http://catalog.data.gov/dataset/consumer-complaint-database.
