@@ -26,3 +26,7 @@ I felt this data would be interesting to start off with small project, there won
 ### URL
 
 Menu can be downloaded using this url - https://github.com/vnikesh/ISQA-8086-Assignment/blob/master/Assignment-1/3%20-%20menu.csv
+
+### References
+
+“Nutrition Facts for McDonald's Menu.” _Nutrition Facts for McDonald's Menu_ | Kaggle, Www.kaggle.com, 14 Feb. 2017, www.kaggle.com/mcdonalds/nutrition-facts.
