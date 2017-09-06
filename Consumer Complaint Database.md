@@ -8,7 +8,7 @@ The dataset verifies all the facts alleged in these complaints, but it takes ste
 The Dataset has around 18 cloumns and 800000 rows
 
 ### Access & Use Information
-__Public:__ This dataset is intended for public access and use.  
+_Public:_ This dataset is intended for public access and use.  
 **License:** No license information was provided. If this work was prepared by an officer or employee of the United States government as part of that person's official duties it is considered a U.S. Government Work.
 
 The data is provided consumer and it is maintained by US government.
@@ -24,4 +24,4 @@ The data is provided consumer and it is maintained by US government.
 ### URL
 https://catalog.data.gov/dataset/consumer-complaint-database
 
-The File can be downloaded in the above link, since the file is too big, I couldn't upload it here.
+The dataset(_csv_) can be downloaded in the above link, since the file is of 300+ MB, I couldn't upload it here.
