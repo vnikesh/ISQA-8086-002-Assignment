@@ -12,5 +12,10 @@ Some of the problems that I could notice in the given Data sets are mentioned be
 8. Based on my study over Planktons, a lot of factors affect the growth of the organism like water condition, the intensity of light and min-max temperature of the water on a given day, all these data are missing in the current record.
  
  
- ## _#_ **2**
+ ## _#_ **2** Potential Template for New System Organization
+ 
+ | Date | Time | Depth | Min Temp of Water | Max Temp of Water | Temp during recording | Cuni#/L | Cuni Colony Size | Chippo #/L | Chippo Colony Size | Chla | Place | Physical Ocean Condition | Dissolved Carbon Dioxide | Light Intensity |
+|------|------|-------|-------------------|-------------------|-----------------------|---------|------------------|------------|--------------------|------|-------|--------------------------|--------------------------|-----------------|
+|      |      |       |                   |                   |                       |         |                  |            |                    |      |       |                          |                          |                 |
+|      |      |       |                   |                   |                       |         |                  |            |                    |      |       |                          |                          |                 |
 
