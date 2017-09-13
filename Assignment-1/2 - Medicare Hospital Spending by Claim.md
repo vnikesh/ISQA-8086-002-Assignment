@@ -13,14 +13,18 @@ _Public:_ This dataset is intended for public access and use.
 
 ### Questions this data might help to answer
 
-1. Can check average spending and also find claims done for a particular provider
-2. Can check the spending based on each states and group it under highest and lowest claim states
-3. Can check on how many customers has claimed the money and which state has high claimers
+1. Can check average spending and also find claims done for a particular provider?
+2. Can check the spending based on each states and group it under highest and lowest claim states?
+3. Can check on how many customers has claimed the money and which state has high claimers?
 
 ### URL
 
 The dataset can be downloaded from the following link -  
 https://github.com/vnikesh/ISQA-8086-Assignment/blob/master/Assignment-1/2%20-%20Medicare_Hospital_Spending_by_Claim.csv
+
+### Document
+
+https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/hospital-value-based-purchasing/Downloads/Fact-Sheet-MSPB-Spending-Breakdowns-by-Claim-Type-Dec-2014.pdf
 
 ### References:
 
