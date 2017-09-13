@@ -14,7 +14,7 @@ Some of the problems that I could notice in the given Data sets are mentioned be
  
  ## _#_ **2** Potential Template for New System Organization
  
- When I went through wikipage about Planktons, I read factors like water condition, light of intensity and PH level of the water places an important role in the growth of Planktons. So I would like to consider these data to recored as it would help scientist to get better result.
+ When I went through wiki page about Planktons, I read factors like water condition, the light of intensity and PH level of the water places an important role in the growth of Planktons. So I would like to consider these data to be recorded as it would help the scientist to get a better result.
  
 | Date | Time | Depth | Min Temp of Water | Max Temp of Water | Temp during recording | Cuni#/L | Cuni Colony Size | Chippo #/L | Chippo Colony Size | Chla | Place | Physical Ocean Condition | Dissolved Carbon Dioxide | Light Intensity | pH level of water |
 |------|------|-------|-------------------|-------------------|-----------------------|---------|------------------|------------|--------------------|------|-------|--------------------------|--------------------------|-----------------|-------------------|
